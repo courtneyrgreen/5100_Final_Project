@@ -3,7 +3,6 @@ title: "Appendix"
 format: 
     html:
       embed-resources: true
-
 ---
 
 ## Visualizations and Supplementary Figures
@@ -51,28 +50,23 @@ protection_policy_columns <- c("protections_to_enter_a_clinic", "shield_law_prot
 
 ------------------------------------------------------------------------
 
-### 4. Infant Mortality Rates in Most Restrictive States (2017--2022)
-
-![](images/infant_mortality_in_most_restrictive_states.png)
-
-**Figure Description**: This line graph shows the trends in infant mortality rates (per 1,000 live births) across states with the most restrictive abortion policies from 2017 to 2022.
-
-### 5. Inbound Abortion Travel by State (2023)
+### 4. Inbound Abortion Travel by State (2023)
 
 ![](images/inbound_travel.png)
 
 **Figure Description**: The map visualizes the number of individuals traveling into each state for abortion services in 2023, with California, New York, Florida, and Illinois showing notably higher inbound travel compared to other states.
 
-## Presentation Slides
+------------------------------------------------------------------------
 
-<iframe src="images/presentation_slides.pdf" width="100%" height="500px" style="border: none;">
+### 5. Infant Mortality Rates in Most Restrictive States (2017--2022)
 
-</iframe>
+![](images/infant_mortality_in_most_restrictive_states.png)
 
-[Project Presentation Download](images/presentation_slides.pdf)
+**Figure Description**: This line graph shows the trends in infant mortality rates (per 1,000 live births) across states with the most restrictive abortion policies from 2017 to 2022.
+
 
 ## Data Download
 
 The data used for this analysis is available for download in CSV format. Click the link below to access the dataset.
 
--   [Merged Dataset](data/clean_data/merged_data.csv)
+-   [Merged Dataset](data/merged_data.csv)
