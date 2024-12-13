@@ -1,5 +1,5 @@
 ---
-title: "Data vs. Dogma: Maternal Wellness Conditions and Abortion Policy per State"
+title: "Data vs. Dogma: <br> Maternal Wellness Conditions and Abortion Policy per State"
 author: Courtney Green, Josh Lin, Kristin Lloyd, Viviana Luccioli, Sam Sofman
 format:
   html:
